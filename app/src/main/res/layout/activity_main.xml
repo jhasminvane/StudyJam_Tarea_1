@@ -32,7 +32,7 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Iniciar Sesion >"
+                    android:text="Iniciar Sesiòn >"
                     android:textSize="30sp"
                     android:paddingLeft="20dp"
                     android:layout_gravity="center"
